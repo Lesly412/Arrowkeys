@@ -3,7 +3,7 @@ import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
 
 public class ArrowKeys {
-    public ArrowKeys {
+    public void Arrowkeys {
         JFrame frame = new JFrame();
         frame.setVisible(true);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
